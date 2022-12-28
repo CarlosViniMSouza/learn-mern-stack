@@ -1,6 +1,6 @@
 git add .
-git commit -m "Install MongoDB Compass"
+git commit -m "Create a Model"
 git push
 git status
 
-# stop moment: 37:00
+# stop moment: 47:26
