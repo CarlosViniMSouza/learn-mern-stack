@@ -1,6 +1,6 @@
 git add .
-git commit -m "Lesson 02 -> Authenticate User"
+git commit -m "Lesson 02 -> Auth Middleware"
 git push
 git status
 
-# stop moment: 22:11
+# stop moment: 30:00
