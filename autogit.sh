@@ -1,5 +1,5 @@
 git add .
-git commit -m "CRUD -> finished"
+git commit -m "Lesson 02 -> add userModel.js"
 git push
 git status
 

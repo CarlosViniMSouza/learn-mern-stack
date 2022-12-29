@@ -23,4 +23,14 @@ npm install
 npm run server
 ```
 
-## Demo
+## Libs
+
+### FrontEnd
+
+1. React.js
+
+### BackEnd
+
+1. Express
+2. Mongoose
+3. JWT
