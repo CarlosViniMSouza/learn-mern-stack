@@ -1,6 +1,6 @@
 git add .
-git commit -m "Create a Model"
+git commit -m "CRUD -> finished"
 git push
 git status
 
-# stop moment: 47:26
+# stop moment: 57:33
