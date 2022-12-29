@@ -18,6 +18,7 @@ app.use(express.urlencoded({ extended: false }));
 
 // Use map routers to express.Router()
 app.use('/api/goals', require('./routes/goalRoutes'));
+app.use('/api/users', require('./routes/userRoutes'));
 
 // Use middlewares
 app.use(errorHandler);
