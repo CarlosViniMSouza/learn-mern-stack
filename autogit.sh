@@ -1,6 +1,6 @@
 git add .
-git commit -m "Lesson 3 -> Header & Navigation"
+git commit -m "Lesson 3 -> Register Page"
 git push
 git status
 
-# stop moment: 12:30
+# stop moment: 16:35
