@@ -1,6 +1,6 @@
 git add .
-git commit -m "Lesson 3 -> Login Page"
+git commit -m "Lesson 3 -> Concurrently Setup"
 git push
 git status
 
-# stop moment: 25:15
+# stop moment: 27:40
