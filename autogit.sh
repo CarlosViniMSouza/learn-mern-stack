@@ -1,5 +1,5 @@
 git add .
-git commit -m "Lesson 02 -> Protect Goal Routes"
+git commit -m "Error -> middleware insert correctly"
 git push
 git status
 
