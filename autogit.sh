@@ -1,6 +1,6 @@
 git add .
-git commit -m "moved package.json from backend to root"
+git commit -m "Lesson 3 -> Header & Navigation"
 git push
 git status
 
-# stop moment: 52:28
+# stop moment: 12:30
