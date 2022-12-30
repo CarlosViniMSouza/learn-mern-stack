@@ -1,6 +1,6 @@
 git add .
-git commit -m "Error -> middleware insert correctly"
+git commit -m "Lesson 2 -> Setting a user goal"
 git push
 git status
 
-# stop moment: 41:27
+# stop moment: 44:00
