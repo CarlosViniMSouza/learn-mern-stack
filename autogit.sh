@@ -1,6 +1,6 @@
 git add .
-git commit -m "Lesson 02 -> Protecting Routes"
+git commit -m "Lesson 02 -> Protect Goal Routes"
 git push
 git status
 
-# stop moment: 37:34
+# stop moment: 41:27
