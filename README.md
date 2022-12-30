@@ -28,6 +28,7 @@ npm run server
 ### FrontEnd
 
 1. React.js
+2. Redux Toolkit
 
 ### BackEnd
 

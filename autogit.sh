@@ -1,5 +1,5 @@
 git add .
-git commit -m "Lesson 2 -> completed"
+git commit -m "moved package.json from backend to root"
 git push
 git status
 
