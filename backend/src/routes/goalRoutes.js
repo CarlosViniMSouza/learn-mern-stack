@@ -3,7 +3,7 @@ const router = express.Router();
 
 const { 
     getGoals, setGoal, putGoal, delGoal 
-} = require('../controllers/goalsController');
+} = require('../controllers/goalController');
 
 const { protected } = require('../middlewares/authMiddleware');
 

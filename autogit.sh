@@ -1,6 +1,6 @@
 git add .
-git commit -m "Lesson 2 -> Setting a user goal"
+git commit -m "Lesson 2 -> completed"
 git push
 git status
 
-# stop moment: 44:00
+# stop moment: 52:28
